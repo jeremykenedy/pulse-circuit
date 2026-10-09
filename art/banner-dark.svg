@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" role="img" aria-labelledby="title desc">
+  <title id="title">Pulse Circuit</title>
+  <desc id="desc">An animated geometric screensaver with no tracking or analytics.</desc>
+  <defs><linearGradient id="background" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0c0a09"/><stop offset="1" stop-color="#1c1917"/></linearGradient></defs>
+  <rect width="800" height="200" rx="16" fill="url(#background)"/>
+  <text x="40" y="78" fill="#fff" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="40" font-weight="700" letter-spacing="-.5">Pulse Circuit</text>
+  <text x="42" y="108" fill="#a8a29e" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="14">Luminous forms in continuous motion</text>
+  <rect x="40" y="130" width="150" height="22" rx="11" fill="#1a1a1a" opacity=".8" stroke="#60a5fa" stroke-width=".8"/><text x="115" y="145" fill="#60a5fa" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="10" font-weight="500" text-anchor="middle">NO TRACKING OR ANALYTICS</text>
+  <rect x="202" y="130" width="84" height="22" rx="11" fill="#1a1a1a" opacity=".8" stroke="#a78bfa" stroke-width=".8"/><text x="244" y="145" fill="#a78bfa" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="10" font-weight="500" text-anchor="middle">ANDROID TV</text>
+  <rect x="298" y="130" width="76" height="22" rx="11" fill="#1a1a1a" opacity=".8" stroke="#4ade80" stroke-width=".8"/><text x="336" y="145" fill="#4ade80" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="10" font-weight="500" text-anchor="middle">FIRE TV</text>
+  <rect x="386" y="130" width="82" height="22" rx="11" fill="#1a1a1a" opacity=".8" stroke="#fbbf24" stroke-width=".8"/><text x="427" y="145" fill="#fbbf24" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="10" font-weight="500" text-anchor="middle">GOOGLE TV</text>
+  <g transform="translate(625 100)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle r="65" stroke="#1e3a8a" stroke-width="2"/><circle r="49" stroke="#5b21b6" stroke-width="2"/><circle r="33" stroke="#047857" stroke-width="2"/>
+    <path d="M-53 23-28-18-2 9 23-34 52 12" stroke="#60a5fa" stroke-width="4"/><path d="M-28-18-5-41 15-17 37-41" stroke="#a78bfa" stroke-width="3"/>
+    <path d="M-53 23l7 7-7 7-7-7zm51-14 7 7-7 7-7-7zm25-43 7 7-7 7-7-7zm29 46 7 7-7 7-7-7z" fill="#55e8ff" stroke="none"/>
+  </g>
+</svg>

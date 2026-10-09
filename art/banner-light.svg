@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" role="img" aria-labelledby="title desc">
+  <title id="title">Pulse Circuit</title>
+  <desc id="desc">An animated geometric screensaver with no tracking or analytics.</desc>
+  <rect width="800" height="200" rx="16" fill="#fff" stroke="#e5e7eb"/>
+  <text x="40" y="78" fill="#0f172a" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="40" font-weight="700" letter-spacing="-.5">Pulse Circuit</text>
+  <text x="42" y="108" fill="#64748b" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="14">Luminous forms in continuous motion</text>
+  <rect x="40" y="130" width="150" height="22" rx="11" fill="#eff6ff" stroke="#3b82f6" stroke-width=".8"/><text x="115" y="145" fill="#1e40af" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="10" font-weight="500" text-anchor="middle">NO TRACKING OR ANALYTICS</text>
+  <rect x="202" y="130" width="84" height="22" rx="11" fill="#f5f3ff" stroke="#8b5cf6" stroke-width=".8"/><text x="244" y="145" fill="#6d28d9" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="10" font-weight="500" text-anchor="middle">ANDROID TV</text>
+  <rect x="298" y="130" width="76" height="22" rx="11" fill="#f0fdf4" stroke="#22c55e" stroke-width=".8"/><text x="336" y="145" fill="#166534" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="10" font-weight="500" text-anchor="middle">FIRE TV</text>
+  <rect x="386" y="130" width="82" height="22" rx="11" fill="#fffbeb" stroke="#f59e0b" stroke-width=".8"/><text x="427" y="145" fill="#b45309" font-family="system-ui,-apple-system,'Segoe UI',sans-serif" font-size="10" font-weight="500" text-anchor="middle">GOOGLE TV</text>
+  <g transform="translate(625 100)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <circle r="65" stroke="#bfdbfe" stroke-width="2"/><circle r="49" stroke="#c4b5fd" stroke-width="2"/><circle r="33" stroke="#a7f3d0" stroke-width="2"/>
+    <path d="M-53 23-28-18-2 9 23-34 52 12" stroke="#3b82f6" stroke-width="4"/><path d="M-28-18-5-41 15-17 37-41" stroke="#8b5cf6" stroke-width="3"/>
+    <path d="M-53 23l7 7-7 7-7-7zm51-14 7 7-7 7-7-7zm25-43 7 7-7 7-7-7zm29 46 7 7-7 7-7-7z" fill="#0ea5e9" stroke="none"/>
+  </g>
+</svg>
